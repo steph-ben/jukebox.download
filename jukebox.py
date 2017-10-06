@@ -1,4 +1,10 @@
 #!/bin/env python
+"""
+Requirements:
+    - pip install python-requests
+    - pip install youtube-dl
+    - download ffmpeg from http://ffmpeg.zeranoe.com/builds/
+"""
 import os
 import requests
 import pprint as pp
